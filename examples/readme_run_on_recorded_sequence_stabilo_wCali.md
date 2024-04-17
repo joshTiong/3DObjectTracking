@@ -10,7 +10,7 @@ in run_on_recorded_sequence_stabilo_wCali.cpp
 ### Edited .h and .cpp files in \include and \src
 Some functions in \include and \src with name "my...." are new functions made. Some functions are edited from its original code without making a new function("my...").
 Functions are initialized in .h files and its contents are in .cpp files. 
-For example, "void mySet_camera22camera1_pose(~)" are initialized in body.h and its contents are in "void Body::mySet_camera22camera1_pose(~)" of body.cpp.
+For example, "void mySet_camera22camera1_pose()" are initialized in body.h and its contents are in "void Body::mySet_camera22camera1_pose()" of body.cpp.
 
 1. body.h : mySet_camera22camera1_pose()
 2. region_model.h : myGetClosestView()
